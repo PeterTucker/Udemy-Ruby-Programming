@@ -4,7 +4,6 @@
   print "Hello, World! \n"
 end
 
-
 # upto
 1.upto(10) do |x|
   print x, " "
